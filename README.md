@@ -3,7 +3,7 @@ File Organization Synergy System is a simple way to use node in order to organiz
 
 ## Installation
 1. Clone the repository or download the zip file and extract the file.
-2. Open the terminal within the application and use `npm i`.
+2. Open the terminal within the application and use `npm i chalk yargs`.
 3. Enjoy!
 
 ## Commands
