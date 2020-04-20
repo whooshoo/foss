@@ -1,4 +1,4 @@
-# foss
+# FOSS
 File Organization Synergy System is a simple way to use node in order to organize links to repositories.
 
 ## Installation
