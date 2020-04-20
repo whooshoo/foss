@@ -1,0 +1,16 @@
+{
+  "name": "foss",
+  "version": "1.0.0",
+  "description": "The skeleton of the application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run start"
+  },
+  "author": "Adam Pittman",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "yargs": "^15.3.1"
+  }
+}
