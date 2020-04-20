@@ -8,16 +8,16 @@ File Organization Synergy System is a simple way to use node in order to organiz
 
 ## Commands
 
-There are four main commands to use this application:
+### There are four main commands to use this application:
 
-[x] Add a new repository!
+- Add a new repository!
 `node app.js add --title='FrontEnd' --link='https://github.com/whooshoo/frontend'`
 
-[x] List the current repositories saved!
+- List the current repositories saved!
 `node app.js list`
 
-[x] Read the link of a repo!
+- Read the link of a repo!
 `node app.js read --title="FrontEnd"`
 
-[x] Delete a repository!
+- Delete a repository!
 `node app.js remove --title="FrontEnd"`
